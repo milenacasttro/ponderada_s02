@@ -15,4 +15,4 @@
 
 ### Link para o Repositório
 
-&nbsp;&nbsp;&nbsp;&nbsp;Repositório no GitHub https://github.com/milenacasttro/ponderada_s02
+&nbsp;&nbsp;&nbsp;&nbsp;Repositório no GitHub https://github.com/milenacasttro/ponderada_s02/blob/main/Requisitos_Forca.md
