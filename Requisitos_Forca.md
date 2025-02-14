@@ -10,7 +10,7 @@
 
 ## 3. Requisitos Funcionais
 
-Elaborou-se os seguintes requisitos funcionais, seguindo o modelo 5W2H, para o jogo de forca:
+&nbsp;&nbsp;&nbsp;&nbsp;Elaborou-se os seguintes requisitos funcionais, seguindo o modelo 5W2H, para o jogo de forca:
 
 <div align="center">
 <sub>Tabela 1 - Requisitos Funcionais</sub><br>
@@ -32,3 +32,20 @@ Elaborou-se os seguintes requisitos funcionais, seguindo o modelo 5W2H, para o j
 </div>
 
 ## 4. Requisitos Não Funcionais
+
+&nbsp;&nbsp;&nbsp;&nbsp;Elaborou-se os seguintes requisitos não funcionais, classificados por aspecto de qualidade e prioridade, para o jogo de forca:
+
+<div align="center">
+<sub>Tabela 2 - Requisitos Não Funcionais</sub><br>
+
+| **RNF#**  | **Descrição**                                                                                      | **Aspecto de qualidade**      | **Prioridade**  |
+|-----------|--------------------------------------------------------------------------------------------------|------------------------------|----------------|
+| RNF001    | O sistema deve ser responsivo para desktop e mobile, garantindo acessibilidade.                  | Usabilidade                  | Alta           |
+| RNF002    | O tempo de carregamento das telas deve ser inferior a 2 segundos para melhorar a experiência do usuário. | Eficiência de performance    | Alta           |
+| RNF003    | O sistema deve suportar até 1000 jogadores simultaneamente para garantir escalabilidade.         | Confiabilidade               | Alta           |
+| RNF004    | O sistema deve garantir segurança na autenticação por meio de criptografia de senhas.            | Segurança                    | Alta           |
+| RNF005    | O sistema deve oferecer suporte aos idiomas português e inglês para ampliar o público-alvo.      | Usabilidade                  | Moderada       |
+| RNF006    | O sistema deve utilizar inteligência artificial para gerar dicas dinâmicas e equilibradas.       | Funcionalidade               | Moderada       |
+
+<sup>Fonte: Material produzido pelo autor (2025) </sup>
+</div>
